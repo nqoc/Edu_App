@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="image">
+    <file>done.png</file>
+    <file>attachFile.png</file>
+    <file>dark.jpg</file>
+    <file>sendFile.png</file>
+  </qresource>
+</RCC>
